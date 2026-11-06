@@ -8,7 +8,7 @@ Bjørn André Aaslund, Johannes Berge, Ying Ni, and Rita Pimentel (2025). **Neur
 
 ## Code contributors
 
-The original code was primarily developed by **Bjørn André Aaslund** and **Johannes Berge**, with subsequent modifications by **Ying Ni** for additional numerical experiments.
+The original code was primarily developed by **Bjørn André Aaslund** and **Johannes Berge**, with minor modifications by Ying Ni to support additional numerical experiments.
 
 ## Citation
 
