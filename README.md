@@ -29,7 +29,7 @@ If you use this code or adapt it for your research, please cite the following pu
 
 ## Motivation
 
-The object of interest in this study is Bermudan basket options with maximum payoffs, i.e., max-call or max-put options on a large number of underlying assets, using the least-squares Monte Carlo (LSMC) approach.
+The object of interest in this study is Bermudan basket options with maximum payoffs, i.e., max-call or max-put options on a large number of underlying assets, using the Neural network-based least-squares Monte Carlo (LSMC) approach.
 
 ## Structure
 
